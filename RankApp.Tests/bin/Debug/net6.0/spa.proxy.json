@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44468",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/maxdeisadze/Projects/RankApp/RankApp/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}

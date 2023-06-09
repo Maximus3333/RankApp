@@ -1,0 +1,6 @@
+/Users/maxdeisadze/Projects/RankApp/RankApp.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/maxdeisadze/Projects/RankApp/RankApp.Tests/obj/Debug/net7.0/RankApp.Tests.csproj.AssemblyReference.cache
+/Users/maxdeisadze/Projects/RankApp/RankApp.Tests/obj/Debug/net7.0/RankApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxdeisadze/Projects/RankApp/RankApp.Tests/obj/Debug/net7.0/RankApp.Tests.AssemblyInfoInputs.cache
+/Users/maxdeisadze/Projects/RankApp/RankApp.Tests/obj/Debug/net7.0/RankApp.Tests.AssemblyInfo.cs
+/Users/maxdeisadze/Projects/RankApp/RankApp.Tests/obj/Debug/net7.0/RankApp.Tests.csproj.CoreCompileInputs.cache
